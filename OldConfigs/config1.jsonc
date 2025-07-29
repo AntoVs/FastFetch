@@ -1,0 +1,27 @@
+{
+  "logo": {
+    "type": "builtin",
+    "source": "arch_small"
+  },
+  "display": {
+    "separator": " : ",
+    "key": {
+      "width": 12
+    }
+  },
+  "modules": [
+    { "type": "os" },
+    { "type": "kernel" },
+    { "type": "cpu" },
+    { "type": "gpu" },
+    { "type": "memory" },
+    { "type": "disk" },
+    { "type": "de" },
+    { "type": "wm" },
+    { "type": "shell" },
+    { "type": "terminal" },
+    { "type": "uptime" },
+    { "type": "colors" }
+  ]
+}
+
